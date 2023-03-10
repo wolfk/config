@@ -83,7 +83,7 @@ return {
 		-- MONSTERS
 		spiders = "default", 			-- "never", "rare", "default", "often", "always"
 		cave_spiders = "default", 		-- "never", "rare", "default", "often", "always"
-		hounds = "default", 			-- "never", "rare", "default", "often", "always"
+		hounds = "rare", 			-- "never", "rare", "default", "often", "always"
 		houndmound = "default", 		-- "never", "rare", "default", "often", "always"
 		merm = "default", 				-- "never", "rare", "default", "often", "always"
 		tentacles = "default", 			-- "never", "rare", "default", "often", "always"
