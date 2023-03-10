@@ -47,7 +47,7 @@ return {
 		wormlights = "default", 		-- "never", "rare", "default", "often", "always"
 
 		-- UNPREPARED
-		berrybush = "default", 			-- "never", "rare", "default", "often", "always"
+		berrybush = "always", 			-- "never", "rare", "default", "often", "always"
 		carrot = "always", 			-- "never", "rare", "default", "often", "always"
 		mushroom = "always", 			-- "never", "rare", "default", "often", "always"
 		cactus = "default", 			-- "never", "rare", "default", "often", "always"
@@ -72,7 +72,7 @@ return {
 		cave_ponds = "default", 		-- "never", "rare", "default", "often", "always"
 		ponds = "default", 				-- "never", "rare", "default", "often", "always"
 		bees = "default", 				-- "never", "rare", "default", "often", "always"
-		angrybees = "rare", 			-- "never", "rare", "default", "often", "always"
+		angrybees = "never", 			-- "never", "rare", "default", "often", "always"
 		tallbirds = "default", 			-- "never", "rare", "default", "often", "always"
 		slurper = "default", 			-- "never", "rare", "default", "often", "always"
 		bunnymen = "default", 			-- "never", "rare", "default", "often", "always"
